@@ -10,21 +10,7 @@ TensorFlow es una biblioteca de código abierto de Google utilizada para el desa
 
 * [Esctructura](#Estructura) 
 
-- Importación o generación del conjunto de datos.
-- Transformación y normalización de datos.
-- Dividir datos en entrenamiento, prueba y validación.
-- Definir los hiperparámetros.
-- Inicializar variables o placeholders.
-- Definir estructura del modelo.
-- Declarar la función de pérdidas.
-- Inicializar y entrenar el modelo.
-- Evaluación del modelo.
-- Rejustar hiperparametros.
-- Predecir nuevos resultados.
-
 * [Introducción](#Introducción) 
-
-
 
 * [Autor](#Autor)
 
@@ -32,10 +18,29 @@ TensorFlow es una biblioteca de código abierto de Google utilizada para el desa
 
 # Estructura 
 
+En el momento de crear un modelo en TensorFlow sería bueno tener la siguiente ruta en cuenta:
+
+- Importación o generación del conjunto de datos.
+- Transformación y normalización de datos.
+- Dividir datos en entrenamiento, prueba y validación.
+- Definir los hiperparámetros.
+- Crear o inicializar(versiones viejas) variables o placeholders.
+- Definir estructura del modelo.
+- Declarar la función de pérdidas.
+- Inicializar y entrenar el modelo.
+- Evaluación del modelo.
+- Rejustar hiperparametros.
+- Predecir nuevos resultados.
 
 <br>[Volver al Índice](#Índice)
 
 # Introducción
+
+- Variables y Praceholders
+- Tensores
+- Matrices
+- Estructura de Modelos
+- Función de Pérdida 
 
 <br>[Volver al Índice](#Índice)
 
