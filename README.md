@@ -34,11 +34,8 @@ En el momento de crear un modelo en TensorFlow sería bueno tener la siguiente r
 
 <br>[Volver al Índice](#Índice)
 
-<a name="Introducción"></a>
-# Introducción
-<details>
-<summary>Click to expand!</summary>
 
+# Introducción
 
 - Variables y Praceholders
 - Tensores
