@@ -12,7 +12,7 @@ TensorFlow es una biblioteca de código abierto de Google utilizada para el desa
 
 * [Introducción](#Introducción) 
 
-* [Fuentes de Datos](#Fuentes-de-Datos) 
+* [Regresion](#Regresion) 
 
 * [Función de Pérdida](#Función-de-Pérdida) 
 
@@ -41,7 +41,7 @@ En el momento de crear un modelo en TensorFlow sería bueno tener la siguiente r
 <br>[Volver al Índice](#Índice)
 
 
-# Introducción
+# [Introducción]()
 
 - Variables y Praceholders
 - Tensores
@@ -51,10 +51,11 @@ En el momento de crear un modelo en TensorFlow sería bueno tener la siguiente r
 
 <br>[Volver al Índice](#Índice)
 
-# Fuentes de datos
+## Fuentes de datos
 
-# Función de Pérdida
+## Función de Pérdida
 
+# [Regresión]()
 
 # Autor
 
