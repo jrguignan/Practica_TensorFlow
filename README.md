@@ -8,22 +8,35 @@ TensorFlow es una biblioteca de código abierto de Google utilizada para el desa
 
 # Índice
 
-* [Esctructura](#Estructura) 
-
 * [Introducción](#Introducción) 
 
-* [Regresion](#Regresion) 
+* [Regresión](#Regresión) 
 
-* [Función de Pérdida](#Función-de-Pérdida) 
+* [SVM](#SVM) 
 
+* [Redes Neuronales](#Redes-Neuronales)
 
+* [Redes Convolucionales](#Redes-Convolucionales) 
 
 * [Autor](#Autor)
 
 
 
-# Estructura 
 
+
+
+
+
+
+# [Introducción]()
+
+- Variables y Praceholders
+- Tensores
+- Matrices
+- Estructura de Modelos
+- Función de Pérdida 
+
+## Estructura
 En el momento de crear un modelo en TensorFlow sería bueno tener la siguiente ruta en cuenta:
 
 - Importación o generación del conjunto de datos.
@@ -38,24 +51,19 @@ En el momento de crear un modelo en TensorFlow sería bueno tener la siguiente r
 - Rejustar hiperparametros.
 - Predecir nuevos resultados.
 
-<br>[Volver al Índice](#Índice)
 
-
-# [Introducción]()
-
-- Variables y Praceholders
-- Tensores
-- Matrices
-- Estructura de Modelos
-- Función de Pérdida 
-
-<br>[Volver al Índice](#Índice)
 
 ## Fuentes de datos
 
 ## Función de Pérdida
 
 # [Regresión]()
+
+# [SVM]() 
+
+# [Redes Neuronales]()
+
+# [Redes Convolucionales]() 
 
 # Autor
 
