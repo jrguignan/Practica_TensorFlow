@@ -22,13 +22,7 @@ TensorFlow es una biblioteca de código abierto de Google utilizada para el desa
 
 
 
-
-
-
-
-
-
-# [Introducción]()
+# [Introducción](https://github.com/jrguignan/TensorFlow/tree/main/introduccion)
 
 - Variables y Praceholders
 - Tensores
@@ -57,13 +51,13 @@ En el momento de crear un modelo en TensorFlow sería bueno tener la siguiente r
 
 ## Función de Pérdida
 
-# [Regresión]()
+# [Regresión](https://github.com/jrguignan/TensorFlow/tree/main/regresion)
 
-# [SVM]() 
+# [SVM](https://github.com/jrguignan/TensorFlow/tree/main/svm) 
 
-# [Redes Neuronales]()
+# [Redes Neuronales](https://github.com/jrguignan/TensorFlow/tree/main/redes_neuronales)
 
-# [Redes Convolucionales]() 
+# [Redes Convolucionales](https://github.com/jrguignan/TensorFlow/tree/main/redes_convolucionales) 
 
 # Autor
 
