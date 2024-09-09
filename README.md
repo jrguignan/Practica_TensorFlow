@@ -22,7 +22,7 @@ TensorFlow es una biblioteca de código abierto de Google utilizada para el desa
 
 # [Introducción](https://github.com/jrguignan/TensorFlow/tree/main/introduccion)
 
-## Estructura de Trabajo
+### Estructura de Trabajo
 En el momento de crear un modelo en TensorFlow sería bueno tener la siguiente ruta en cuenta:
 
 - Importación o generación del conjunto de datos.
@@ -37,7 +37,7 @@ En el momento de crear un modelo en TensorFlow sería bueno tener la siguiente r
 - Rejustar hiperparametros.
 - Predecir nuevos resultados.
 
-## [Primeros Pasos](https://github.com/jrguignan/TensorFlow/blob/main/introduccion/primeros_pasos.ipynb)
+### [Primeros Pasos](https://github.com/jrguignan/TensorFlow/blob/main/introduccion/primeros_pasos.ipynb)
 Primeros pasos en TensorFlow donde se explora la creación y el uso de:
 
 - Variables.
@@ -48,7 +48,7 @@ Primeros pasos en TensorFlow donde se explora la creación y el uso de:
 
 <br>[Volver al Índice](#Índice)
 
-## [Fuentes de Datos](https://github.com/jrguignan/TensorFlow/blob/main/introduccion/fuentes_de_datos.ipynb)
+### [Fuentes de Datos](https://github.com/jrguignan/TensorFlow/blob/main/introduccion/fuentes_de_datos.ipynb)
 
 Se explora distintas fuentes y manera de obtener datos.
 
@@ -56,11 +56,11 @@ Se explora distintas fuentes y manera de obtener datos.
 
 Se muestra algunos de los modelos mas sencillos que se pueden aplicar en TensorFlow
 
-## [Función de Pérdida](https://github.com/jrguignan/TensorFlow/blob/main/introduccion/funciones_de_perdida.ipynb)
+### [Función de Pérdida](https://github.com/jrguignan/TensorFlow/blob/main/introduccion/funciones_de_perdida.ipynb)
 
 Se muestran las ecuaciones de distintas funciones de perdidas, la función de perdida adecuada juega un papel importante a la hora de ajustar el modelo.
 
-## [Ejemplo](https://github.com/jrguignan/TensorFlow/blob/main/introduccion/ejemplo_board.ipynb)
+### [Ejemplo](https://github.com/jrguignan/TensorFlow/blob/main/introduccion/ejemplo_board.ipynb)
 
 Se muestran un par de ejemplos, uno sencillo y una mas complejo, una red neuronal convolucional en la que se usó la herramienta tensorboard.
 
@@ -72,21 +72,21 @@ Se muestran un par de ejemplos, uno sencillo y una mas complejo, una red neurona
 
 Construcción de una regresión lineal de distintas maneras:
 
-## [Distancia Ortognonal](https://github.com/jrguignan/TensorFlow/blob/main/regresion/distancia_ortogonal.ipynb)
+### [Distancia Ortognonal](https://github.com/jrguignan/TensorFlow/blob/main/regresion/distancia_ortogonal.ipynb)
 
-## [Lineal](https://github.com/jrguignan/TensorFlow/blob/main/regresion/regresion_lineal.ipynb)
+### [Lineal](https://github.com/jrguignan/TensorFlow/blob/main/regresion/regresion_lineal.ipynb)
 
-## [Matriz Inversa](https://github.com/jrguignan/TensorFlow/blob/main/regresion/matriz_inversa.ipynb)
+### [Matriz Inversa](https://github.com/jrguignan/TensorFlow/blob/main/regresion/matriz_inversa.ipynb)
 
-## [Descomposición LI - Cholesky](https://github.com/jrguignan/TensorFlow/blob/main/regresion/descomposicion_LU.ipynb)
+### [Descomposición LI - Cholesky](https://github.com/jrguignan/TensorFlow/blob/main/regresion/descomposicion_LU.ipynb)
 
-## [Regresión Ridge](https://github.com/jrguignan/TensorFlow/blob/main/regresion/regresion_ridge.ipynb)
+### [Regresión Ridge](https://github.com/jrguignan/TensorFlow/blob/main/regresion/regresion_ridge.ipynb)
 
-## [Regresión Lasso](https://github.com/jrguignan/TensorFlow/blob/main/regresion/regresion_lasso.ipynb)
+### [Regresión Lasso](https://github.com/jrguignan/TensorFlow/blob/main/regresion/regresion_lasso.ipynb)
 
-## [Regresión Elastic Net](https://github.com/jrguignan/TensorFlow/blob/main/regresion/regresion_elastic_net.ipynb)
+### [Regresión Elastic Net](https://github.com/jrguignan/TensorFlow/blob/main/regresion/regresion_elastic_net.ipynb)
 
-## [Regresión Logística](https://github.com/jrguignan/TensorFlow/blob/main/regresion/regresion_logistica_v1.ipynb)
+### [Regresión Logística](https://github.com/jrguignan/TensorFlow/blob/main/regresion/regresion_logistica_v1.ipynb)
 
 
 <br>[Volver al Índice](#Índice)
@@ -95,11 +95,11 @@ Construcción de una regresión lineal de distintas maneras:
 
 Construcción de un support vector machine de distintas maneras:
 
-## [SVM Lineal](https://github.com/jrguignan/TensorFlow/blob/main/svm/SVM_lineal.ipynb)
+### [SVM Lineal](https://github.com/jrguignan/TensorFlow/blob/main/svm/SVM_lineal.ipynb)
 
-## [SVM Kernel ](https://github.com/jrguignan/TensorFlow/blob/main/svm/SVM_kernel.ipynb)
+### [SVM Kernel ](https://github.com/jrguignan/TensorFlow/blob/main/svm/SVM_kernel.ipynb)
 
-## [SVM Regresion](https://github.com/jrguignan/TensorFlow/blob/main/svm/SVM_regresion.ipynb)
+### [SVM Regresion](https://github.com/jrguignan/TensorFlow/blob/main/svm/SVM_regresion.ipynb)
 
 
 <br>[Volver al Índice](#Índice)
@@ -108,11 +108,11 @@ Construcción de un support vector machine de distintas maneras:
 
 Varios ejemplos de redes neuronales:
 
-## [Ejemplo Funciones de Activación](https://github.com/jrguignan/TensorFlow/blob/main/redes_neuronales/funciones_activacion.ipynb)
+### [Ejemplo Funciones de Activación](https://github.com/jrguignan/TensorFlow/blob/main/redes_neuronales/funciones_activacion.ipynb)
 
-## [Ejemplo Iris](https://github.com/jrguignan/TensorFlow/blob/main/redes_neuronales/red_iris.ipynb)
+### [Ejemplo Iris](https://github.com/jrguignan/TensorFlow/blob/main/redes_neuronales/red_iris.ipynb)
 
-## [Ejemplo Multicapa](https://github.com/jrguignan/TensorFlow/blob/main/redes_neuronales/red_multicapa.ipynb)
+### [Ejemplo Multicapa](https://github.com/jrguignan/TensorFlow/blob/main/redes_neuronales/red_multicapa.ipynb)
 
 
 
@@ -123,9 +123,9 @@ Varios ejemplos de redes neuronales:
 
 Ejemplo de red convolucional sencilla y compleja.
 
-## [Red Convolucional Simple](https://github.com/jrguignan/TensorFlow/blob/main/redes_convolucionales/rn_simple.ipynb)
+### [Red Convolucional Simple](https://github.com/jrguignan/TensorFlow/blob/main/redes_convolucionales/rn_simple.ipynb)
 
-## [Red Convolucional Compleja](https://github.com/jrguignan/TensorFlow/blob/main/redes_convolucionales/rn_compleja.ipynb)
+### [Red Convolucional Compleja](https://github.com/jrguignan/TensorFlow/blob/main/redes_convolucionales/rn_compleja.ipynb)
 
 
 
