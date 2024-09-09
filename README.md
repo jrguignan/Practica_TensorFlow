@@ -24,7 +24,10 @@ TensorFlow es una biblioteca de código abierto de Google utilizada para el desa
 
 # [Introducción](https://github.com/jrguignan/TensorFlow/tree/main/introduccion)
 
-- Variables y Praceholders
+## [Primeros Pasos]()
+Primeros pasos en TensorFlow donde se explora la creación y el uso de:
+
+- Variables 
 - Tensores
 - Matrices
 - Estructura de Modelos
@@ -45,8 +48,6 @@ En el momento de crear un modelo en TensorFlow sería bueno tener la siguiente r
 - Rejustar hiperparametros.
 - Predecir nuevos resultados.
 
-
-
 ## Fuentes de datos
 
 ## Función de Pérdida
@@ -58,6 +59,7 @@ En el momento de crear un modelo en TensorFlow sería bueno tener la siguiente r
 # [Redes Neuronales](https://github.com/jrguignan/TensorFlow/tree/main/redes_neuronales)
 
 # [Redes Convolucionales](https://github.com/jrguignan/TensorFlow/tree/main/redes_convolucionales) 
+
 
 # Autor
 
