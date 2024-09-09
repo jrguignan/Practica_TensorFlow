@@ -1,5 +1,5 @@
 <p align="center">
-<img src="images/tensorflow_2.png"  height=500>
+<img src="images/tensorflow_2.png"  height=400>
 </p>
 
 TensorFlow es una biblioteca de código abierto de Google utilizada para el desarrollo y entrenamiento de modelos de aprendizaje automático y redes neuronales. Facilita la creación de modelos complejos para tareas de reconocimiento de voz, procesamiento de imágenes, traducción automática, y otras aplicaciones de inteligencia artificial.
